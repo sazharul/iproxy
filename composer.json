@@ -8,13 +8,6 @@
             "Sazharul\\Iproxy\\": "src/"
         }
     },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Sazharul\\Iproxy\\Providers\\IproxyServiceProvider"
-            ]
-        }
-    },
     "authors": [
         {
             "name": "MD. Azharul Islam",
