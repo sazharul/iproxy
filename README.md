@@ -1,4 +1,3 @@
-```markdown
 # Laravel IProxy Package
 
 The Laravel IProxy package provides a convenient way to interact with the iProxy API for managing proxy configurations in Laravel applications.
